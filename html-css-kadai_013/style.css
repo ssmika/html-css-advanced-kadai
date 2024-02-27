@@ -59,8 +59,7 @@ PC用のスタイル
     color: #0d0d0d;
   }
   /* スマホ用ナビゲーション非表示 */
-  #menu-sp,
-  #nav-sp {
+  #menu-sp, #nav-sp {
     display: none;
   }
 }
@@ -131,7 +130,7 @@ PC用のスタイル
     margin: 0 20px 0 20px;
     height: 44px;
     font-size: 16px;
-    background-image: url(images/arrow.png);
+    background-image: url("images/arrow.png");
     background-repeat: no-repeat;
     background-position: right top;
   }

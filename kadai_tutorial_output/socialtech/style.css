@@ -585,7 +585,7 @@ footer {
   #product-main {
     height: 496px;
     width: 100%;
-    background-image: url(images/product/product-main.png);
+    background-image: url("images/product/product-main.png");
     background-repeat: no-repeat;
     background-position-y: center;
   }
@@ -1084,7 +1084,7 @@ footer {
     text-decoration: none;
     margin: 0 20px 30px 0;
     display: block;
-    background-image: url(images/arrow.png);
+    background-image: url("images/arrow.png");
     background-repeat: no-repeat;
     background-position: right top;
   }
